@@ -45,3 +45,4 @@ Contributions to healthvault-samples are welcome.  Here is how you can contribut
 * [Submit pull requests](https://github.com/Microsoft/healthvault-samples/pulls) for bug fixes and features
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+[![Hotcakes badge](http://www.hotcakesbot.com/badge/brendankowitz/healthvault-samples)](http://www.hotcakesbot.com/)
